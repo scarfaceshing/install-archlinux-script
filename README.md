@@ -1,3 +1,3 @@
 # install-archlinux-script
 
-### archlinux for raspberry pi
+### a linux shell script for installing archlinux on raspberry pi
